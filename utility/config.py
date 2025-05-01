@@ -1,0 +1,1 @@
+EVERSHOP_URL = "https://demo.evershop.io/"
